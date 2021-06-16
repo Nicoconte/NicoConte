@@ -62,6 +62,6 @@ Anyway, i leave a list with the techonologies and tools i´ve working this years
 
 <hr>
 
-<h3> Some other stats </h3>
+<h3> Some other stats 📊</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoconte)](https://github.com/nicoconte/github-readme-stats)
