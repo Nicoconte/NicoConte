@@ -54,7 +54,7 @@ Anyway, i leave a list with the techonologies and tools i´ve working this years
 
 <h3> Find me 🌎</h3>
 
-<a href="https://www.linkedin.com/in/nicolas-conte/" _blank=true>
+<a href="https://www.linkedin.com/in/nicolas-conte/" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=35>
 </a>
 
