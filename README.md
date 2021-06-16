@@ -3,7 +3,7 @@
 <br>
 
 <p>
-I´m a Software developer who loves innovating and building new tools to make development easier. I´m based in Buenos Aires, Argentina.
+I´m a Software developer who loves innovating and building new tools to make things easier. I´m based in Buenos Aires, Argentina.
 
 Since 2019 I have been living and breathing web development and learning different languages and tools. I never stop learning that make for sure. 
 </p>
