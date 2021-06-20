@@ -13,7 +13,7 @@ Since 2019 I have been living and breathing web development and learning differe
 <h3>What I´m focusing on 👨‍🎓</h3>
 
 <p>
-At the current Job i´m working with .NET Framework, modern Javascript (ES6+) and using Azure´s Environment and Services. But what i really focuse on is Python, Angular and Node JS. 
+At the current Job i´m working with .NET Framework/Core, modern Javascript (ES6+) and using Azure´s Environment and Services. But what i really focuse on is Python, Angular and Node JS. 
 
 Anyway, i leave a list with the techonologies and tools i´ve working this years
 </p>
