@@ -10,7 +10,7 @@ Since 2019 I have been living and breathing web development and learning differe
 
 <hr>
 
-<h3>Focused on 👨‍🎓</h3>
+<h3>Tech stack 👨‍🎓</h3>
 
 <br>
 
