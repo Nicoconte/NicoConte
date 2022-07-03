@@ -3,9 +3,7 @@
 <br>
 
 <p>
-I´m a Software developer who loves innovating and building new tools to make things easier. I´m based in Buenos Aires, Argentina.
-
-Since 2019 I have been living and breathing web development and learning different languages and tools. I never stop learning that make for sure. 
+Computer engineering student that tend to dabble in a lot of different things, so thats make me a master of none but at least i dont get bored
 </p>
 
 <hr>
