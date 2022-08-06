@@ -22,3 +22,6 @@ Computer engineering student that tend to dabble in a lot of different things, s
 <h3> Some other stats 📊</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoConte)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoConte&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
